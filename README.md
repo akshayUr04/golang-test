@@ -5,7 +5,7 @@
   #### 1. Clone the repository:
 
   ```bash
-    git clone  && \
+    git clone https://github.com/akshayUr04/golang-test.git && \
     cd ./golang-test
   ```
 
